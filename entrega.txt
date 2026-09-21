@@ -8,13 +8,10 @@ Caio Tadeu Da Silva Faraleski - RM 558795
 Pedro Alvarez Certo - RM 554603
 Eduardo do Nascimento Souza - RM 558819
 
-Link do repositório frontend:
-https://github.com/RodrigoBenevides/metaindustria-mobile-sprint2
+Link do repositorio da Sprint 3:
+https://github.com/dudu-initial/sprint-3-mobile-dev
 
 Resumo da Sprint 3:
 App Expo integrado com API Spring Boot em http://localhost:8080.
 Fluxos implementados: listar equipamentos, cadastrar equipamento e consultar detalhe por ID.
 Camada de services: src/services/api.ts e src/services/equipamentoService.ts.
-
-Link do vídeo:
-https://drive.google.com/file/d/1UHD1_NNIhqmkwELwyqJvkRdUkEA53_yQ/view?usp=sharing
